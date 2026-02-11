@@ -1,0 +1,7 @@
+title: "From Question to Prototype"
+description: "Design Thinking for Interaction Research — A hands-on workshop at Faculdade de Ciencias, Lisbon"
+baseurl: "/question-to-prototype-workshop"
+url: ""
+theme: null
+plugins:
+  - jekyll-seo-tag
