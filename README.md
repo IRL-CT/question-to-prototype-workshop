@@ -1,8 +1,10 @@
 [Workshop] From Question to Prototype: Design Thinking for Interaction Research
 
 April 20-21, Faculdade de Ciências (Lisbon, Portugal)
+
 Website:
-Sign up form: 
+
+Sign up form: https://forms.gle/v9wEUb7Gx5iHGLqM7
 
 Workshop Description
 Open to researchers, students, and practitioners at all levels — no prior design or robotics experience required.
