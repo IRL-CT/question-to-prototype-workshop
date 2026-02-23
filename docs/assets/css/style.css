@@ -33,14 +33,16 @@ a:hover {
 
 /* Banner */
 .banner {
-  width: 100%;
-  line-height: 0;
+  text-align: center;
+  padding: 2rem 2rem 0;
+  max-width: 900px;
+  margin: 0 auto;
 }
 
 .banner img {
-  width: 100%;
+  max-width: 100%;
   height: auto;
-  display: block;
+  display: inline-block;
 }
 
 /* Hero */
