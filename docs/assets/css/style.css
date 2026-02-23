@@ -196,13 +196,12 @@ section h3 {
 }
 
 .organizer-photo {
-  width: 120px;
-  height: 120px;
+  width: 100px;
+  height: 100px;
   border-radius: 50%;
   object-fit: cover;
   margin: 0 auto 0.75rem;
   display: block;
-  border: 3px solid var(--primary);
 }
 
 .organizer h4 {
