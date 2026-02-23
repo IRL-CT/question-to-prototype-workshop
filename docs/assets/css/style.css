@@ -31,6 +31,18 @@ a:hover {
   color: var(--primary);
 }
 
+/* Banner */
+.banner {
+  width: 100%;
+  line-height: 0;
+}
+
+.banner img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
 /* Hero */
 .hero {
   background: var(--primary);
@@ -174,7 +186,7 @@ section h3 {
 /* Organizers */
 .organizers-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: repeat(4, 1fr);
   gap: 2rem;
   margin-top: 1.5rem;
 }
@@ -183,18 +195,14 @@ section h3 {
   text-align: center;
 }
 
-.organizer-avatar {
-  width: 100px;
-  height: 100px;
+.organizer-photo {
+  width: 120px;
+  height: 120px;
   border-radius: 50%;
-  background: var(--primary);
-  color: var(--white);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 2rem;
-  font-weight: 700;
+  object-fit: cover;
   margin: 0 auto 0.75rem;
+  display: block;
+  border: 3px solid var(--primary);
 }
 
 .organizer h4 {
@@ -262,5 +270,10 @@ footer a {
 
   .organizers-grid {
     grid-template-columns: repeat(2, 1fr);
+  }
+
+  .organizer-photo {
+    width: 80px;
+    height: 80px;
   }
 }
