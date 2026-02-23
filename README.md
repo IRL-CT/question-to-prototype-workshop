@@ -26,6 +26,7 @@ The workshop emphasizes that users are experts in their own lives; our role as r
 - The design process: asking the right questions
 - Users as experts: designing studies that reveal true needs
 - Sustainable and purposeful lab practices
+- HRI/HCI Research Lightning Talks
 
 ### Day 1 Afternoon: Problem Exploration
 
