@@ -6,6 +6,8 @@
 
 **[Workshop Website](https://IRL-CT.github.io/question-to-prototype-workshop/)** | **[Sign Up](https://forms.gle/v9wEUb7Gx5iHGLqM7)** | **[TiltyBot Instructions](https://github.com/imandel/tiltybot)**
 
+_The workshop is supported by Portuguese Fundação Ciência Tecnologia , Faculdade de Ciências, Lasige Lab UID/00408/2025, and FLAD._
+
 ---
 
 ## About
