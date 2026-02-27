@@ -34,7 +34,6 @@ Full hardware and software instructions are available at the [TiltyBot repositor
 - How to run a design-forward HCI/HRI lab
 - Design theory and its applications in research
 - The design process: asking the right questions
-- Users as experts: designing studies that reveal true needs
 - Sustainable and purposeful lab practices
 - HRI/HCI Research Lightning Talks
 
