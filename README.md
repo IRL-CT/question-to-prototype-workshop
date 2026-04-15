@@ -4,7 +4,7 @@
 
 > A 2-day hands-on workshop on integrating design perspectives into HCI/HRI research.
 
-**[Workshop Website](https://IRL-CT.github.io/question-to-prototype-workshop/)** | **[Sign Up](https://forms.gle/v9wEUb7Gx5iHGLqM7)** | **[TiltyBot Instructions](https://github.com/imandel/tiltybot)**
+**[Workshop Website](https://IRL-CT.github.io/question-to-prototype-workshop/)** | **[Sign Up](https://forms.gle/v9wEUb7Gx5iHGLqM7)** | **[TiltyBot Instructions](https://github.com/IRL-CT/tiltybot)**
 
 _The workshop is supported by Portuguese Fundação Ciência Tecnologia , Faculdade de Ciências, Lasige Lab UID/00408/2025, and FLAD._
 
@@ -20,11 +20,11 @@ The workshop emphasizes that users are experts in their own lives; our role as r
 
 ## TiltyBot
 
-Participants will build and program a [TiltyBot](https://github.com/imandel/tiltybot) — a small robot platform with two drive modes:
+Participants will build and program a [TiltyBot]((https://github.com/IRL-CT/tiltybot/) — a small robot platform with two drive modes:
 
 <img src="docs/static/drive_mode1.gif" alt="TiltyBot Drive Mode 1" width="45%"> <img src="docs/static/drive_mode2.gif" alt="TiltyBot Drive Mode 2" width="45%">
 
-Full hardware and software instructions are available at the [TiltyBot repository](https://github.com/imandel/tiltybot).
+Full hardware and software instructions are available at the [TiltyBot repository](https://github.com/IRL-CT/tiltybot).
 
 ## Schedule
 
@@ -40,7 +40,7 @@ Full hardware and software instructions are available at the [TiltyBot repositor
 ### Day 1 Afternoon: Problem Exploration
 
 - Identify a research question or human problem
-- Build a robot using the [TiltyBot](https://github.com/imandel/tiltybot)
+- Build a robot using the [TiltyBot](https://github.com/IRL-CT/tiltybot)
 - Design a robot or interface to explore your question
 - Develop purpose-driven prototypes as research tools
 
